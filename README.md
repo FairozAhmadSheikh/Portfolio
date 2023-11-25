@@ -2,15 +2,6 @@
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 ### Weblink: [Live Website](https://)
-## Some Images:
-<img width="450px;" src="https://drive.google.com/file/d/1PRhtmQY_A3z5PI0P7_dR3DLMIGnlnTjS/view?usp=drive_link"/>
-<img width="450px;" src="https://drive.google.com/file/d/1DxNodVnOPbyLCgqsDBfZcEcoKvslxlkn/view?usp=drive_link"/>
-<img width="450px;" src="https://drive.google.com/file/d/1JQ10eQqSpsi1CMqgr-H0p7MKjGbJzmOR/view?usp=drive_link"/>
-<img width="450px;" src="https://drive.google.com/file/d/1AHaVkJtNsZIWvL0bNg4J10w4gs3qj_sP/view?usp=drive_link"/>
-<img width="450px;" src="https://drive.google.com/file/d/1L8Dq48JHqFPR7Juz44697mg8g0WtSIc2/view?usp=drive_link"/>
-<img width="450px;" src="https://drive.google.com/file/d/1Clo-e4SLN8cGR4cO6vT6Q3JDdhrnCIsV/view?usp=drive_link"/>
-
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
