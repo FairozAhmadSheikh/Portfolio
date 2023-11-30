@@ -1,6 +1,7 @@
 export const Bio = {
   name: "Fairoz Ahmad Sheikh",
   roles: [
+    "Engineer",
     "Full Stack Developer",
     "Android Developer",
     "Programmer",
