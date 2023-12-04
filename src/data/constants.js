@@ -267,6 +267,26 @@ export const education = [
 ];
 
 export const projects = [
+  
+  {
+    id: 1,
+      title: "Resume Builder ",
+      date: "Sept 2023 - Nov 2023",
+      description:
+        "This Resume Builder Web App, built with ReactJS, HTML, CSS, and Redux, revolutionizes resume creation. Offering an interactive interface and responsive design, it transforms the traditional process into a modern, efficient experience. Users can seamlessly organize and update their professional details, showcasing the power of technology in presenting impactful resumes.",
+      image:
+        "https://remoters.net/wp-content/uploads/2020/08/resumebuilder-logo.png",
+      tags: [
+        " React JS",
+        "HTML",
+        "CSS",
+        "Node JS",
+        "Tailwind CSS",
+      ],
+      category: "web app",
+      github: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
+      webapp: "https://resume-builder-v1.vercel.app/",
+    },
   {
     id: 9,
     title: "Finger Print Based Door lock Syytem",
@@ -287,6 +307,7 @@ export const projects = [
     github: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
     webapp: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
   },
+  
   {
     id: 3,
     title: "Online Food Ordering App",
@@ -300,6 +321,7 @@ export const projects = [
     github: "https://github.com/FairozAhmadSheikh/Food_Runner",
     webapp: "https://github.com/FairozAhmadSheikh/Food_Runner",
   },
+ 
 ];
 
 export const TimeLineData = [
