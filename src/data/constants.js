@@ -307,6 +307,26 @@ export const projects = [
     github: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
     webapp: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
   },
+  {
+    id: 4,
+    title: "Advanced Quiz App",
+    date: "NOV 2023 - DEC 2023",
+    description:
+      "The Quiz Platform is an innovative and user-friendly application crafted with cutting-edge technologies such as React.js, Material UI, React Router, and React Redux. This dynamic and interactive platform empowers users to effortlessly create, manage, and engage in quizzes. With a sleek and modern design, the user interface is not only visually appealing but also intuitive, ensuring a seamless experience for both creators and participants.",
+    image:
+      "https://img.freepik.com/free-vector/multiple-choice-quiz-game-template-competition-event-show_1017-45315.jpg?w=740&t=st=1702365621~exp=1702366221~hmac=dbec443c51902c7222514f3586f42ec03d19d136db0af5cb11515f9d9e3a0b4b",
+    tags: [
+      "React Js",
+      "HTML",
+      "CSS",
+      "TAILWIND",
+      "React Router",
+      "React Redux",
+    ],
+    category: "web app",
+    github: "https://github.com/FairozAhmadSheikh/Advanced-Quiz-app",
+    webapp: "https://advanced-quiz-app-psi.vercel.app/",
+  },
   
   {
     id: 3,
