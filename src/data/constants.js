@@ -284,7 +284,7 @@ export const projects = [
         "Tailwind CSS",
       ],
       category: "web app",
-      github: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
+      github: "https://github.com/FairozAhmadSheikh/ResumeBuilder",
       webapp: "https://resume-builder-v1.vercel.app/",
     },
   {
@@ -325,7 +325,25 @@ export const projects = [
     github: "https://github.com/FairozAhmadSheikh/Advanced-Quiz-app",
     webapp: "https://advanced-quiz-app-psi.vercel.app/",
   },
-
+  {
+    id: 8,
+    title: "Todo React App",
+    date: "NOV 2023 - DEC 2023",
+    description:
+      "Introducing our sleek todo app, meticulously crafted with React.js, HTML, CSS, and SCSS. Elevate your task management experience with intuitive features for effortless listing, categorization, and prioritization. Stay organized and boost productivity seamlessly. Welcome to productivity redefined.",
+    image:
+      "https://raw.githubusercontent.com/FairozAhmadSheikh/Todo-App/main/Screenshot%202023-12-27%20054500.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "React JS",
+      "SCSS",
+      "JavaScript"
+    ],
+    category: "web app",
+    github: "https://github.com/FairozAhmadSheikh/Todo-App",
+    webapp: "https://todo-app-khaki-iota.vercel.app/",
+  },
 
   {
     id: 3,
@@ -340,6 +358,7 @@ export const projects = [
     github: "https://github.com/FairozAhmadSheikh/Food_Runner",
     webapp: "https://github.com/FairozAhmadSheikh/Food_Runner",
   },
+  
  
 ];
 
