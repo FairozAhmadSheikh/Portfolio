@@ -294,7 +294,7 @@ export const projects = [
         description:
           "This is Tour and Travel Website Built using React JS ExpressJS and MonogDB Where Tourists can do Booking for visting Kashmir.",
         image:
-          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edumilestones.com%2Fcareer-library%2FHow-to-make-a-career-in-Travel-and-Tourism-in-India-Career-Guidance&psig=AOvVaw3xjrqH3fhXof6_GvX8nTgV&ust=1704209154228000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDDw4HAvIMDFQAAAAAdAAAAABAD",
+          "https://5.imimg.com/data5/OO/IE/MY-65454572/tour-travels-500x500.jpg",
         tags: [
           " React JS",
           "MongoDB",
