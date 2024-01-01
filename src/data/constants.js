@@ -275,7 +275,7 @@ export const projects = [
       description:
         "This is A Chat App, built with ReactJS, MongoDB, SocketIO, and Redux. Offering an interactive interface and responsive design, it transforms the traditional process into a modern, efficient experience. Users can Send and Receive messages after creating Account and logging In .",
       image:
-        "https://drive.google.com/file/d/1ibrOVZzgTqInvChIhMe3L4KbvdOejLsw/view?usp=drive_link",
+        "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/781/752/datas/original.png",
       tags: [
         " React JS",
         "ExpressJS",
@@ -294,7 +294,7 @@ export const projects = [
         description:
           "This is Tour and Travel Website Built using React JS ExpressJS and MonogDB Where Tourists can do Booking for visting Kashmir.",
         image:
-          "https://drive.google.com/file/d/15kObTCAWxwwRWySsanrVDTuh6ebV8w1N/view?usp=drive_link",
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edumilestones.com%2Fcareer-library%2FHow-to-make-a-career-in-Travel-and-Tourism-in-India-Career-Guidance&psig=AOvVaw3xjrqH3fhXof6_GvX8nTgV&ust=1704209154228000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDDw4HAvIMDFQAAAAAdAAAAABAD",
         tags: [
           " React JS",
           "MongoDB",
@@ -370,7 +370,7 @@ export const projects = [
     description:
       "Introducing our sleek todo app, meticulously crafted with React.js, HTML, CSS, and SCSS. Elevate your task management experience with intuitive features for effortless listing, categorization, and prioritization. Stay organized and boost productivity seamlessly. Welcome to productivity redefined.",
     image:
-      "https://drive.google.com/file/d/19DFMpkCLJfn1sxuckGrYkARaa66agUNM/view?usp=drive_link",
+      "https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png",
     tags: [
       "HTML",
       "CSS",
