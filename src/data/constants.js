@@ -275,7 +275,7 @@ export const projects = [
       description:
         "This is A Chat App, built with ReactJS, MongoDB, SocketIO, and Redux. Offering an interactive interface and responsive design, it transforms the traditional process into a modern, efficient experience. Users can Send and Receive messages after creating Account and logging In .",
       image:
-        "https://private-user-images.githubusercontent.com/134375617/293577360-3aa07c57-b25b-4c6d-8536-69d653ec7c58.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxMTk5MjQsIm5iZiI6MTcwNDExOTYyNCwicGF0aCI6Ii8xMzQzNzU2MTcvMjkzNTc3MzYwLTNhYTA3YzU3LWIyNWItNGM2ZC04NTM2LTY5ZDY1M2VjN2M1OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwMVQxNDMzNDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MGIxZTc3NzE5NTQxNzI3MzQ2NDAzYzhmYjFiNWVjNmQ1OWJiYmY4NjE5YzEwNTYyZjJkOWRhNjYwNTZmMjAwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.LYuMtqxx7m8_rir3U4utixY-WGzBp1Z3AhwDbf2-n3o",
+        "https://drive.google.com/file/d/1ibrOVZzgTqInvChIhMe3L4KbvdOejLsw/view?usp=drive_link",
       tags: [
         " React JS",
         "ExpressJS",
@@ -294,7 +294,7 @@ export const projects = [
         description:
           "This is Tour and Travel Website Built using React JS ExpressJS and MonogDB Where Tourists can do Booking for visting Kashmir.",
         image:
-          "https://private-user-images.githubusercontent.com/134375617/293592376-9925c724-a049-4d7d-9773-20d735675352.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxMjA5MTgsIm5iZiI6MTcwNDEyMDYxOCwicGF0aCI6Ii8xMzQzNzU2MTcvMjkzNTkyMzc2LTk5MjVjNzI0LWEwNDktNGQ3ZC05NzczLTIwZDczNTY3NTM1Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwMVQxNDUwMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NzBiNWQ1YzMwMjFjN2MyZDc0MWNlYmJiNDlhYjk3MmM0OGMyNmI4MTJkZTgxOWRkYWQ4MjdkZTM4OWY0NDE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Y575--TPaQBor0EaFC48GMjFHLsdCsINf-ffmUwLpEM",
+          "https://drive.google.com/file/d/15kObTCAWxwwRWySsanrVDTuh6ebV8w1N/view?usp=drive_link",
         tags: [
           " React JS",
           "MongoDB",
@@ -370,7 +370,7 @@ export const projects = [
     description:
       "Introducing our sleek todo app, meticulously crafted with React.js, HTML, CSS, and SCSS. Elevate your task management experience with intuitive features for effortless listing, categorization, and prioritization. Stay organized and boost productivity seamlessly. Welcome to productivity redefined.",
     image:
-      "https://private-user-images.githubusercontent.com/134375617/293042271-283f669d-abb1-40fc-a2bd-51194ba54a8d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxMjAzMjksIm5iZiI6MTcwNDEyMDAyOSwicGF0aCI6Ii8xMzQzNzU2MTcvMjkzMDQyMjcxLTI4M2Y2NjlkLWFiYjEtNDBmYy1hMmJkLTUxMTk0YmE1NGE4ZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwMVQxNDQwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTJhYTI0OTdjNTcwYjNlYjEwMWJhZjM0ZmFhM2QyNDEzYWVjYzI4MWVhZmVhNjUzZDNjMzA0Y2M3NDYyNjk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wIQ0oEFBPUfuMIV94ZioL7ERRrGO_6ivLv0qGMD5RyA",
+      "https://drive.google.com/file/d/19DFMpkCLJfn1sxuckGrYkARaa66agUNM/view?usp=drive_link",
     tags: [
       "HTML",
       "CSS",
