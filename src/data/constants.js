@@ -306,6 +306,7 @@ export const projects = [
         github: "https://github.com/FairozAhmadSheikh/TravelFrontend",
         webapp: "https://travel-frontend-drab.vercel.app/home/",
       },
+      
   {
     id: 3,
       title: "Resume Builder ",
@@ -396,7 +397,25 @@ export const projects = [
     github: "https://github.com/FairozAhmadSheikh/Food_Runner",
     webapp: "https://github.com/FairozAhmadSheikh/Food_Runner",
   },
-  
+  {
+    id: 102,
+      title: "File Sharing React App ",
+      date: "Sept 2023 - JAN 2024",
+      description:
+        "This is Web App designed to share the files likes photos and pdf and text Documents once you upload the file it will then Generate the Download Link which you can send to anyone so that they are able to download the File .",
+      image:
+        "https://www.winzip.com/static/wz/images/learn/features/file-sharing/file-sharing.png",
+      tags: [
+        " React JS",
+        "MongoDB",
+        "ExpressJS",
+        "Redux",
+        "CSS",
+      ],
+      category: "web app",
+      github: "https://github.com/FairozAhmadSheikh/Filesharing-Backend",
+      webapp: "https://filesharing-frontend-lime.vercel.app/",
+    },
  
 ];
 
