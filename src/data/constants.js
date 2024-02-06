@@ -416,6 +416,25 @@ export const projects = [
       github: "https://github.com/FairozAhmadSheikh/Filesharing-Backend",
       webapp: "https://filesharing-frontend-lime.vercel.app/",
     },
+  {
+      id: 103,
+        title: "Weather Checking App",
+        date: "Feb 2024 - Feb 2024",
+        description:
+          "This is a simple weather app built using Next.js and the OpenWeatherMap API. It allows users to search for the current weather conditions of a city and displays relevant information such as temperature, wind speed, and weather icon. .",
+        image:
+          "https://www.newsonair.gov.in/writereaddata/News_Pictures/MIS/2022/Mar/NPIC-20223891521.jpg",
+        tags: [
+          " NEXT JS",
+          "TailwindCSS",
+          "Openweathermap",
+          "API",
+          "AXIOS",
+        ],
+        category: "web app",
+        github: "https://github.com/FairozAhmadSheikh/Weather_Check",
+        webapp: "https://weather-check-pink.vercel.app/",
+      },
  
 ];
 
