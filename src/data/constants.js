@@ -9,7 +9,7 @@ export const Bio = {
     "As a computer engineer, I specialize in full-stack web development and Android app development. My passion lies in creating seamless, user-centric experiences. Explore my portfolio to see how I transform ideas into functional and visually appealing applications, blending innovation with practical solutions.",
   github: "https://github.com/FairozAhmadSheikh",
   resume:
-    "https://drive.google.com/file/d/1pY0XaYsm5xtBXmQ5LIzkWC1DYjd-XAqM/view?usp=sharing",
+    "https://drive.google.com/file/d/1qomsEfAs2WrbyEUifFiOmqslYxYbPfcs/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/",
   twitter: "https://twitter.com/Ferozahmad7272",
   insta: "https://www.instagram.com/feroz.ahmad_/",
