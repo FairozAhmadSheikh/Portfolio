@@ -4,7 +4,6 @@ export const Bio = {
     "AI Engineer",
     "Data Scientist",
     "Full Stack Developer",
-    "Android Developer",
     "Programmer",
   ],
   description:
