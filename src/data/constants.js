@@ -375,6 +375,26 @@ export const projects = [
     github: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
     webapp: "https://github.com/FairozAhmadSheikh/MajorProject-/tree/main",
   },
+
+  {
+    id: 53,
+      title: "Diamond Price Prediction",
+      date: "Apr 2025 - Present",
+      description:
+        "This is a diamond price prediction tool developed using machine learning algorithms such as Linear Regression, Support Vector Regression (SVR), and Decision Tree Regression. Built as a Python-based application, it takes input features like carat weight, cut, color, clarity, and other relevant attributes to estimate the price of a diamond. The models were trained on real-world datasets to ensure high prediction accuracy. The tool runs efficiently in a local environment and provides quick, reliable price estimations based on user input.",
+      image:
+        "data:image/png;base64,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",
+      tags: [
+        " Python",
+        "Machine Learning",
+        "Support Vector Machine",
+        "Linear Regression",
+        "Decission tress",
+      ],
+      category: "machine learning",
+      github: "https://github.com/FairozAhmadSheikh/Major_Project_MachineLearning",
+      webapp: "https://github.com/FairozAhmadSheikh/Major_Project_MachineLearning",
+    },
   {
     id: 9,
     title: "Advanced Quiz App",
@@ -468,7 +488,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "Started my journey" },
+  { year: 2018, text: "Started Computer Engineering" },
   { year: 2021, text: "Worked as a freelance developer" },
   { year: 2022, text: "Founded JavaScript Mastery" },
   { year: 2023, text: "Secured A place On wall of Fame TryHackMe" },
