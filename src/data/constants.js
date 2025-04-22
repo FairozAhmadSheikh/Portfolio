@@ -12,8 +12,8 @@ export const Bio = {
     "https://drive.google.com/file/d/1qomsEfAs2WrbyEUifFiOmqslYxYbPfcs/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/fairoz-ahmad-sheikh-2877b8278/",
   twitter: "https://twitter.com/Ferozahmad7272",
-  insta: "https://www.instagram.com/feroz.ahmad_/",
-  facebook: "https://www.facebook.com/bazil.abbas.77/",
+  insta: "https://www.instagram.com/ahmmadferoz/",
+  facebook: "https://www.facebook.com/feroz.ahmmad.641538/",
 };
 
 export const skills = [
