@@ -179,8 +179,8 @@ export const experiences = [
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEUAAAD///+8vLx2dnbNzc319fVdXV2Li4vy8vIkJCQUFBRUVFTo6Oipqam4uLiZmZlOTk4zMzMMDAw4ODjU1NRycnJpaWnb29suLi4bGxuzs7NjY2MeHh4pKSk9PT1aWlrj4+PFxcWhoaFISEiBgYGTk5OIiIiHZUcSAAADU0lEQVR4nO3a23aqMBCAYUCxKgpaKHho8VDt+z9isUJCQvCwuxts1/9dYTIka1bLEAKOAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWBDOj4NVxXteDFpv8TRkkb0au9Yny5jCNmB/htkgdZ9PWdzLxAjnIyhAQaBNNDDGdZri+kmEhy6tBpobeUJ1nZhrBSobDiZE/KP6B/eFF/jAtB9kbIrfqPJEhxLeSIfD4vHBl4r0X9d27weo0yMHUs6vfDELjyVYybCuU1+4WwsEx11LX7ctZ1uZzf0eGWWuGrlwW7DrMcN+iuNfF01uc/k0HTybHWMxyMAY8WckQf8azcFvfWJKtz2ONIVrtsMivuKneNXBF56JqW/ryhL2IXMnIs7KavujtdkqMSta3F72rVullhrWCGInIsFEs51/t/W6KqOobGcoTmg9RkTZ4hxnGwlLvGueiTzaOhNqz8HLU8DXAm7EZuFNPmOtdi94lg1pkIFpfxEHxdN9o7PUsZlaRRaAxe8uquVTfjpG1NPOro9zZVofeL6ilTcrSUmaY7Kuj1Ug0pp1mmCWlbKB3zZJ+q6MSeRSR07g6DNPqKApEd2ItL+A3kZfIPddhohbeY3UxJ8Vj8UoLnTsDcbF3cR3+ay1VnkTkujRznEgNHBb33Ae5W9x5P6wvEOTdYlssFNS4fdcZHqrVxiHWuy6vaWa1SLmmOf1pUyWueCyJ5ST2EsMfMhcaeyjPsk82Gp8PRyJwocacg8amgay5rZYan/FlOVVqqVJZEu23hYx038hQ7tNoGY7FA4b7cfrdcYb/Y69tqm2yheL310+55dZFhkvD9mezT7Zd2y/VovSTfjIV/D2R2end08L8wkh/w1QMstZPLxcto3NEuZh/3+uTWMnQbXHz+8OtY3h/uC1H9+vludc4t9MMb/ie5uzDlGFWjj6tJ9JRhl5odN97/J42ilf9/813RUi1WxXoc9l5jw88vpbv2oabe75ri/RRdmL8nfwiI9WjhlYy/EYt7YvtgNZa6jgfE3H4YHeLa/fDLMrlII1Xo1vRNZfb4h1luAmMNhe/EQ605+RYP/3dNNVIn2tjJUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKHwCkLpN6DdZ9UwAAAAASUVORK5CYII=",
     role: "IBM Certified Data Scientist",
     company: "IBM",
-    date: "Jan 2025 - Mar 2025",
-    desc: "During my Machine Learning internship at the University of London, I gained practical experience in developing and evaluating ML models using Python and libraries like Scikit-learn and TensorFlow. I worked on real-world datasets, focusing on data preprocessing, feature engineering, model training, and performance evaluation. The internship covered key algorithms such as regression, decision trees, and neural networks, while also emphasizing the importance of cross-validation and model optimization. Collaborating with mentors and peers enhanced my understanding of applied machine learning and strengthened my skills in solving data-driven problems. ",
+    date: "June 2025 - Sept 2025",
+    desc: "Completed the IBM Data Science Specialization, gaining practical experience in Python, SQL, data visualization, and machine learning. Developed end-to-end data science projects involving exploratory data analysis, dashboarding, predictive modeling, and capstone problem-solving. Trained on core topics such as data science methodology, data analysis, ML with Python, and modern generative AI concepts. Strengthened my ability to work with real datasets, apply analytical techniques, and deliver data-driven insights effectively. ",
     skills: [
       "Data Science",
       "Python for Data Science, AI & Development",
@@ -194,6 +194,24 @@ export const experiences = [
   },
   {
     id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8yBCfH6JxD1k7e9fpMjlpuit8U1q5VFFpg&s",
+    role: "Python with data Science and Machine Learning ",
+    company: "IBM",
+    date: " June 2022 - Oct 2022",
+    desc: "Completed the Python for Data Science and Machine Learning program from IIT Jammu, gaining applied experience in Python programming, data manipulation, visualization, and machine learning. Worked extensively with key libraries including Pandas, NumPy, Matplotlib, and Scikit-learn to build and evaluate ML models. The course enhanced my ability to work with real datasets, perform analytical tasks, and apply core machine learning techniques in practical scenarios. ",
+    skills:[
+        "Python Programming",
+        "Data Analysis & Visualization",
+        "Machine Learning (Regression, Classification)",
+        "Data Preprocessing & Feature Engineering",
+        "NumPy, Pandas, Matplotlib, Scikit-learn",
+        "Model Evaluation & Optimization"
+      ]
+
+  },
+
+  {
+    id: 2,
     img: "data:image/png;base64,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",
     role: "Machine Learning Intern",
     company: "University of London.",
@@ -211,7 +229,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCcxlTMSQaSJHOIhsmqSZDuMGGUaajHN_1NhDPUvJ4Q&s",
     role: "Full-Stack Web Developer Intern",
     company: "AlmaBetter .",
@@ -232,8 +250,8 @@ export const experiences = [
   },
 
   {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
+    id: 4,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOdapX4Fb5qCRI2pS5BbGT0OTaLa-9iO0Dg&s",
     role: "Android Developer",
     company: "Tour and Travels ",
     date: "Jan 2023 - Present",
@@ -247,7 +265,7 @@ export const experiences = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     img: "https://play-lh.googleusercontent.com/8t6U6HGuMnP1DAJYpb4U_fEwVA7fgaOBJYRyfPHM5OLZllGj-8tsmJhu6Y4ikMrGpZg",
     role: "Android Developer Intern",
     company: "InternShalla",
