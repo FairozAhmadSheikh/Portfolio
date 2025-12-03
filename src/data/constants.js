@@ -396,7 +396,7 @@ export const projects = [
       webapp: "https://resume-builder-v1.vercel.app/",
     },
   {
-    id: 9,
+    id: 4,
     title: "Finger Print Based Door lock Syytem",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -417,7 +417,7 @@ export const projects = [
   },
 
   {
-    id: 53,
+    id: 5,
       title: "Diamond Price Prediction",
       date: "Apr 2025 - Present",
       description:
@@ -436,7 +436,7 @@ export const projects = [
       webapp: "https://github.com/FairozAhmadSheikh/Major_Project_MachineLearning",
     },
   {
-    id: 9,
+    id: 6,
     title: "Advanced Quiz App",
     date: "NOV 2023 - DEC 2023",
     description:
@@ -454,7 +454,7 @@ export const projects = [
     webapp: "https://advanced-quiz-app-psi.vercel.app/",
   },
   {
-    id: 8,
+    id: 7,
     title: "Todo React App",
     date: "NOV 2023 - DEC 2023",
     description:
@@ -474,7 +474,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 8,
     title: "Online Food Ordering App",
     date: "NOV 2023 ",
     description:
@@ -487,7 +487,7 @@ export const projects = [
     webapp: "https://github.com/FairozAhmadSheikh/Food_Runner",
   },
   {
-    id: 102,
+    id: 9,
       title: "File Sharing React App ",
       date: "Sept 2023 - JAN 2024",
       description:
@@ -506,7 +506,7 @@ export const projects = [
       webapp: "https://filesharing-frontend-lime.vercel.app/",
     },
   {
-      id: 103,
+      id: 10,
         title: "Weather Checking App",
         date: "Feb 2024 - Feb 2024",
         description:
