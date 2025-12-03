@@ -569,7 +569,7 @@ export const projects = [
         description:
           "A Flask-based web app that uses deep learning (Neural Style Transfer with PyTorch) to blend content images with famous painting styles, creating artistic masterpieces in your browser.",
         image:
-          "https://eyes.nasa.gov/apps/asteroids/og_img.jpg",
+          "https://imgv3.fotor.com/images/share/transfer-the-van-gogh-image-style-to-the-dog-photography-using-fotor-ai-style-transfer-tool.jpg",
         tags: [
           "python",
           "bootstrap",
