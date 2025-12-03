@@ -581,7 +581,7 @@ export const projects = [
           "neural-style-transfer",
           'image-preocessing'
         ],
-        category: "web app",
+        category: "machine learning",
         github: "https://github.com/FairozAhmadSheikh/NeuroPalette",
         webapp: "https://github.com/FairozAhmadSheikh/NeuroPalette",
       },
@@ -601,7 +601,7 @@ export const projects = [
           "blending-images",
           'image-preocessing'
         ],
-        category: "web app",
+        category: "machine learning",
         github: "https://github.com/FairozAhmadSheikh/Image_Blending_App",
         webapp: "https://image-blending-app.onrender.com/",
       },
