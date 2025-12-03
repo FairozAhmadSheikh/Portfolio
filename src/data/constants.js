@@ -196,7 +196,7 @@ export const experiences = [
     id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8yBCfH6JxD1k7e9fpMjlpuit8U1q5VFFpg&s",
     role: "Python with data Science and Machine Learning ",
-    company: "IBM",
+    company: "IIT JAMMU and NIELT",
     date: " June 2022 - Oct 2022",
     desc: "Completed the Python for Data Science and Machine Learning program from IIT Jammu, gaining applied experience in Python programming, data manipulation, visualization, and machine learning. Worked extensively with key libraries including Pandas, NumPy, Matplotlib, and Scikit-learn to build and evaluate ML models. The course enhanced my ability to work with real datasets, perform analytical tasks, and apply core machine learning techniques in practical scenarios. ",
     skills:[
