@@ -524,6 +524,87 @@ export const projects = [
         github: "https://github.com/FairozAhmadSheikh/Weather_Check",
         webapp: "https://weather-check-pink.vercel.app/",
       },
+  {
+      id: 11,
+        title: "Public Message Board ",
+        date: "Nov 2025 - Dec 2025",
+        description:
+          "A sleek glassmorphism-styled Flask web app with a public message board and secure admin dashboard, storing user messages, IP, and device info in MongoDB, with admin replies and easy deployment.",
+        image:
+          "https://img.freepik.com/premium-photo/3d-bulletin-board-icon-public-news-information-display-illustration-logo_762678-91823.jpg",
+        tags: [
+          "Flask",
+          "CSS",
+          "HTML",
+          "Python",
+          "MongoDB",
+        ],
+        category: "web app",
+        github: "https://github.com/FairozAhmadSheikh/Connect-to-viewers",
+        webapp: "https://connect-to-viewers.vercel.app/",
+      },
+  {
+      id: 12,
+        title: "Near Earth Asteroid Tracker ",
+        date: "Oct 2025 - Nov 2025",
+        description:
+          "A modern space-themed web app that tracks and displays near-Earth asteroids approaching our planet within a 7-day window using NASA’s NeoWs (Near Earth Object Web Service) API.",
+        image:
+          "https://eyes.nasa.gov/apps/asteroids/og_img.jpg",
+        tags: [
+          "javascript",
+          "CSS",
+          "HTML",
+          "NASA API",
+          "MongoDB",
+        ],
+        category: "web app",
+        github: "https://github.com/FairozAhmadSheikh/Near-Earth-Asteroid-Tracker",
+        webapp: "https://fairozahmadsheikh.github.io/Near-Earth-Asteroid-Tracker/",
+      },
+  {
+      id: 13,
+        title: "NeuroPalette",
+        date: "April 2025 - Aug 2025",
+        description:
+          "A Flask-based web app that uses deep learning (Neural Style Transfer with PyTorch) to blend content images with famous painting styles, creating artistic masterpieces in your browser.",
+        image:
+          "https://eyes.nasa.gov/apps/asteroids/og_img.jpg",
+        tags: [
+          "python",
+          "bootstrap",
+          "flask",
+          "machine-learning",
+          "computer-vision",
+          "deep-learning",
+          "pytorch",
+          "neural-style-transfer",
+          'image-preocessing'
+        ],
+        category: "web app",
+        github: "https://github.com/FairozAhmadSheikh/NeuroPalette",
+        webapp: "https://github.com/FairozAhmadSheikh/NeuroPalette",
+      },
+  {
+      id: 14,
+        title: "Image Blending App",
+        date: "Mar 2025 - April 2025",
+        description:
+          "This is a simple Flask-based web application that allows you to blend two images in real-time using interactive sliders. You can control the opacity of each image and see the output update instantly.",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4h2hpsbEOfezHzANHaxWEUczuC7NNGZdDFnYJS4yOoNi9zl08sTLdMpP1gW3nsfzWpk",
+        tags: [
+          "python",
+          "flask",
+          "computer-vision",
+          "deep-learning",
+          "blending-images",
+          'image-preocessing'
+        ],
+        category: "web app",
+        github: "https://github.com/FairozAhmadSheikh/Image_Blending_App",
+        webapp: "https://image-blending-app.onrender.com/",
+      },
  
 ];
 
