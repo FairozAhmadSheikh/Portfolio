@@ -122,6 +122,10 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "FastAPI",
+        image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1712084815151/dd22a683-6a3c-421f-969a-d87354887e4e.jpeg",
+      },
     ],
   },
   {
