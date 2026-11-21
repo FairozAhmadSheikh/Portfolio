@@ -153,8 +153,28 @@ export const skills = [
 ];
 
 export const experiences = [
+
   {
-    id: 0,
+  id: 0, 
+  img: "", 
+  role: "Generative AI Developer Intern",
+  company: "Apex Implements",
+  date: "May 2026 - Nov 2026",
+  desc: "Completed a paid Generative AI Developer Internship, building AI-powered applications with Large Language Models (LLMs). Developed DocuMind AI, a document intelligence application that uses Retrieval-Augmented Generation (RAG) for context-aware document querying. Implemented RAG pipelines with LangChain, covering document processing, text chunking, embeddings, and context retrieval, and used LangGraph and ChromaDB for workflow orchestration, vector storage, and semantic search. Built backend APIs with FastAPI and integrated LLM-based functionality into the application.",
+  skills: [
+    "Generative AI",
+    "Large Language Models (LLMs)",
+    "Retrieval-Augmented Generation (RAG)",
+    "LangChain",
+    "LangGraph",
+    "ChromaDB",
+    "Vector Databases & Semantic Search",
+    "FastAPI",
+    "Backend API Development"
+  ],
+  },
+  {
+    id: 1,
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEUAAAD///+8vLx2dnbNzc319fVdXV2Li4vy8vIkJCQUFBRUVFTo6Oipqam4uLiZmZlOTk4zMzMMDAw4ODjU1NRycnJpaWnb29suLi4bGxuzs7NjY2MeHh4pKSk9PT1aWlrj4+PFxcWhoaFISEiBgYGTk5OIiIiHZUcSAAADU0lEQVR4nO3a23aqMBCAYUCxKgpaKHho8VDt+z9isUJCQvCwuxts1/9dYTIka1bLEAKOAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWBDOj4NVxXteDFpv8TRkkb0au9Yny5jCNmB/htkgdZ9PWdzLxAjnIyhAQaBNNDDGdZri+kmEhy6tBpobeUJ1nZhrBSobDiZE/KP6B/eFF/jAtB9kbIrfqPJEhxLeSIfD4vHBl4r0X9d27weo0yMHUs6vfDELjyVYybCuU1+4WwsEx11LX7ctZ1uZzf0eGWWuGrlwW7DrMcN+iuNfF01uc/k0HTybHWMxyMAY8WckQf8azcFvfWJKtz2ONIVrtsMivuKneNXBF56JqW/ryhL2IXMnIs7KavujtdkqMSta3F72rVullhrWCGInIsFEs51/t/W6KqOobGcoTmg9RkTZ4hxnGwlLvGueiTzaOhNqz8HLU8DXAm7EZuFNPmOtdi94lg1pkIFpfxEHxdN9o7PUsZlaRRaAxe8uquVTfjpG1NPOro9zZVofeL6ilTcrSUmaY7Kuj1Ug0pp1mmCWlbKB3zZJ+q6MSeRSR07g6DNPqKApEd2ItL+A3kZfIPddhohbeY3UxJ8Vj8UoLnTsDcbF3cR3+ay1VnkTkujRznEgNHBb33Ae5W9x5P6wvEOTdYlssFNS4fdcZHqrVxiHWuy6vaWa1SLmmOf1pUyWueCyJ5ST2EsMfMhcaeyjPsk82Gp8PRyJwocacg8amgay5rZYan/FlOVVqqVJZEu23hYx038hQ7tNoGY7FA4b7cfrdcYb/Y69tqm2yheL310+55dZFhkvD9mezT7Zd2y/VovSTfjIV/D2R2end08L8wkh/w1QMstZPLxcto3NEuZh/3+uTWMnQbXHz+8OtY3h/uC1H9+vludc4t9MMb/ie5uzDlGFWjj6tJ9JRhl5odN97/J42ilf9/813RUi1WxXoc9l5jw88vpbv2oabe75ri/RRdmL8nfwiI9WjhlYy/EYt7YvtgNZa6jgfE3H4YHeLa/fDLMrlII1Xo1vRNZfb4h1luAmMNhe/EQ605+RYP/3dNNVIn2tjJUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKHwCkLpN6DdZ9UwAAAAASUVORK5CYII=",
     role: "IBM Certified Data Scientist",
     company: "IBM",
@@ -172,7 +192,7 @@ export const experiences = [
     ],
   },
   {
-    id: 1,
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8yBCfH6JxD1k7e9fpMjlpuit8U1q5VFFpg&s",
     role: "Python with data Science and Machine Learning ",
     company: "IIT JAMMU and NIELT",
@@ -190,7 +210,7 @@ export const experiences = [
   },
 
   {
-    id: 2,
+    id: 3,
     img: "data:image/png;base64,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",
     role: "Machine Learning Intern",
     company: "University of London.",
@@ -208,7 +228,7 @@ export const experiences = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCcxlTMSQaSJHOIhsmqSZDuMGGUaajHN_1NhDPUvJ4Q&s",
     role: "Full-Stack Web Developer Intern",
     company: "AlmaBetter .",
@@ -229,7 +249,7 @@ export const experiences = [
   },
 
   {
-    id: 4,
+    id: 5,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOdapX4Fb5qCRI2pS5BbGT0OTaLa-9iO0Dg&s",
     role: "Android Developer",
     company: "Tour and Travels ",
@@ -244,7 +264,7 @@ export const experiences = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     img: "https://play-lh.googleusercontent.com/8t6U6HGuMnP1DAJYpb4U_fEwVA7fgaOBJYRyfPHM5OLZllGj-8tsmJhu6Y4ikMrGpZg",
     role: "Android Developer Intern",
     company: "InternShalla",
@@ -270,7 +290,7 @@ export const education = [
     img: "data:image/jpeg;base64,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",
     school: "Islamic University of Science and Technology , Pulwama",
     date: "Aug 2024- Present",
-    grade: "8.7 CGPA",
+    grade: "9.15 CGPA",
     desc: "I am  pursuing a Master's degree in Artifical Intelligence from Islamic University of Science and Technology, Pulwama . I have Completed  courses in Machine Learning, Deep Learning, Python Programming, Data Science ,etc ",
     degree: "Master's of Technology - M.Tech, Artificial Intelligence",
   },
@@ -317,6 +337,29 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "TravelMate AI",
+    date: "2026",
+    description:
+      "Built an intelligent multi-agent travel planning application using LangGraph and LangChain to coordinate specialized AI agents for flight research, hotel discovery, itinerary planning, and personalized travel recommendations. Integrated AviationStack for real-time flight data, Tavily for hotel research, and Groq LLMs for AI-powered orchestration, with a FastAPI backend and PostgreSQL database.",
+    image: "",
+    tags: [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "Multi-Agent AI",
+      "Groq",
+      "FastAPI",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "AviationStack",
+      "Tavily"
+    ],
+    category: "artificial intelligence",
+    github: "https://github.com/FairozAhmadSheikh/TravelMate",
+    webapp: "https://travelmate-3w7f.onrender.com/",
+  },
+  {
+    id: 1,
     title: "DocuMind",
     date: "April 2026 - May 2026",
     description:
@@ -338,7 +381,7 @@ export const projects = [
   },
 
   {
-    id: 1,
+    id: 2,
     title: "Connect Kashmir Chat-Application ",
     date: "Sept 2023 - Nov 2023",
     description:
@@ -355,25 +398,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/FairozAhmadSheikh/Connect-Kashmir-Frontend",
     webapp: "https://connect-kashmir-frontend.vercel.app/login/",
-  },
-  {
-    id: 2,
-    title: "Tour and Travel Full-Stack App",
-    date: "Sept 2023 - JAN 2024",
-    description:
-      "This is Tour and Travel Website Built using React JS ExpressJS and MonogDB Where Tourists can do Booking for visting Kashmir.",
-    image:
-      "https://5.imimg.com/data5/OO/IE/MY-65454572/tour-travels-500x500.jpg",
-    tags: [
-      " React JS",
-      "MongoDB",
-      "ExpressJS",
-      "Redux",
-      "CSS",
-    ],
-    category: "web app",
-    github: "https://github.com/FairozAhmadSheikh/TravelFrontend",
-    webapp: "https://travel-frontend-drab.vercel.app/home/",
   },
 
   {
